@@ -1,0 +1,17 @@
+---
+output: html_document
+---
+
+<!--
+For this assignment, your team will create a simple report of the data collected by the survey everyone took before the course started (names have been removed). The report must include:
+
+    A paragraph of summary information, citing at least 3 values calculated from the data.
+    Two charts that display information from the survey (what you visualize is up to you)
+
+Unlike other assignments, you'll keep your code organized in multiple different files. This helps keep your project more modular and clear. You'll create four different files for this project:
+
+    An index.Rmd file that renders your report
+    A file with functions that calculate summary information to be included in your report
+    A file with a function that returns your first chart
+    A file with another function that returns another chart
+-->
